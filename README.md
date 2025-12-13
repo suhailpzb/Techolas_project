@@ -18,16 +18,6 @@ Hyperparameter tuning
 Finalized model saved as loan_pipeline.pkl
 A Python file (loan.py) that loads the trained model and makes predictions
 
-🗂️ Repository Structure
-Techolas_project/
-│
-├── Loan approve project.ipynb        # Full data analysis & model-building notebook
-├── case_study2.xlsx                  # Dataset used for training
-├── loan.py                           # Python script for making predictions
-├── loan_pipeline.pkl                 # Trained ML model (pickle file)
-├── LOAN-APPROVAL-ANALYTICS-2.pptx    # Presentation summarizing insights
-└── README.md                         # Project documentation
-
 📈 Machine Learning Workflow
 
 1️⃣ Data Preprocessing
