@@ -56,7 +56,10 @@ Data preprocessing significantly improved model performance
 🎯 Conclusion
 This project demonstrates the complete lifecycle of a machine learning system — from raw data → cleaned data → trained model → deployed application.
 It can easily be integrated into a web application or API to automate real-time loan decision-making.
+
+
 📬 Contact
 If you’d like to discuss improvements or collaborate:
+
 GitHub: https://github.com/suhailpzb
 Email: suhailpzb@gmail.com
