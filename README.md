@@ -1,14 +1,18 @@
 📊 Loan Approval Prediction — Machine Learning Project
+
+
 This project is an end-to-end machine learning application that predicts whether a loan application should be approved or rejected based on user-provided demographic and financial information.
 It includes data preprocessing, feature engineering, model training, evaluation, and a deployable Python script.
 
 
 🚀 Project Overview
+
 Banks and financial institutions receive thousands of loan applications every day. Manually evaluating each application is time-consuming and inconsistent.
 This project solves that problem by building a machine learning model that automatically predicts loan eligibility with high accuracy.
 
 
 🧠 Key Features
+
 Complete data cleaning & preprocessing pipeline
 
 Outlier detection using IQR method
